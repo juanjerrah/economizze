@@ -23,7 +23,6 @@ const App = () => {
   },[list, currentMonth])
 
 
-
   return(
     <C.Container>
 
